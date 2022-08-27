@@ -16,7 +16,7 @@ const DUMMY_PLACES = [
     creator: "u1",
   },
   {
-    id: "p1",
+    id: "p2",
     title: "Taj Mahal",
     description: "One of the most famous monuments in the world",
     image:
